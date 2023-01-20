@@ -1,0 +1,18 @@
+Project:
+ Name: Array_Indexing__RT__Design
+ ProjectNamespaceIndex: 4
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.0
+ CoreVersion: 1.0
+ Dependencies:
+  2:
+   Uri: Array_Indexing__RT_
+   RelativePath: Array_Indexing__RT_.optix
+  3:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 1.0
+ Nodes: []

@@ -1,0 +1,32 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: di1
+  Id: g=b8b711f5ea778dd51a05cdf7eb145fd9
+  Type: BaseDataVariableType
+  DataType: Int32
+  ValueRank: OneDimension
+  ArrayDimensions: [3]
+  Value: [0,0,0]
+- Name: di2
+  Id: g=f88de3038a578a301bf43a6fcd79dea7
+  Type: BaseDataVariableType
+  DataType: String
+  ValueRank: 2
+  ArrayDimensions: [2,2]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [2,2],
+    "Body": [
+     "0","0",
+     "0","0"
+    ]
+   }
+- Name: di3
+  Id: g=0cd449a5e5906b0df9c9a7f9910e1ba4
+  Type: BaseDataVariableType
+  DataType: Float
+  ValueRank: 3
+  ArrayDimensions: [2,2,2]
+  Value: {"Type":10,"Dimensions":[2,2,2],"Body":[0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]}
